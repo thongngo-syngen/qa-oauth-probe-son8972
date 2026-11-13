@@ -1,0 +1,1 @@
+{"client_id":"https://cdn.jsdelivr.net/gh/thongngo-syngen/qa-oauth-probe-son8972@main/client.json","client_name":"SON-8972 QA Probe","redirect_uris":["http://localhost/callback"],"token_endpoint_auth_method":"none"}
